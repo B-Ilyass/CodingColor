@@ -1,9 +1,16 @@
-# CodingColor
+#CodingColor
 
-***Autore:*** Bouafia Ilyass;
+👋 Hi there!
 
-***Scuola:*** ITTS A. Volta, PG;
+***Nickname:*** B-Ilyass;
 
-***Classe:*** 4AINF;
+***Known Programming Languages:*** Python
+                                   Java
+                                   C++
+                                   C#
+                                   lua;
 
-***Corso Di Studio:*** Informatica e Telecomunicazioni;
+***Other Tools:*** Git
+                   VS Code
+                   IntelliJ IDEA
+                   GIMP;

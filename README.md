@@ -4,14 +4,17 @@
 
 ***Nickname:*** B-Ilyass;
 
-***Known Programming Languages:*** Python
+***Known Programming Languages:*** 
 
+                                   Python
                                    Java
                                    C++
                                    C#
                                    lua;
 
-***Other Tools:*** Git
+***Other Tools:*** 
+                            
+                   Git
                    VS Code
                    IntelliJ IDEA
                    GIMP;
